@@ -8,7 +8,7 @@
 
 ## Homework
 
-- Level attempted: Basic / Implementation / Advanced
+- Level attempted: Basic
 - What you did:
 - Results:
 - Observations and questions:
