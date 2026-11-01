@@ -9,6 +9,6 @@
 ## Homework
 
 - Level attempted: Basic / Implementation / Advanced
-- What you did:
+- What you did:Geminiは、3つのレベルをFundamentals、Intermediate、Advancedと回答した。
 - Results:
 - Observations and questions:
